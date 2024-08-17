@@ -1,8 +1,10 @@
-<h1 align="right">👋 Hi, I'm Hendrik Hermawan!</h1>
-<p align="right">👩🏻‍💻 Software Engineer from Gresik East Java Indonesia</p>
-<p align="right">👩🏻‍🎓 Studied Computer Science at the telkom University, Surabaya</p>
+<h1 align="left">👋 Hi, I'm Hendrik Hermawan!</h1>
+<p align="left">👩🏻‍💻 Software Engineer from Gresik East Java Indonesia</p>
+<p align="left">👩🏻‍🎓 Studied Computer Science at the telkom University, Surabaya</p>
+
 
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hendrikh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hendrik.hermawan_) 
 
 # 💻 Tech Stack:
